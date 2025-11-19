@@ -1,6 +1,8 @@
-package org.practice.task2;
+package org.practice.chapter1.task2;
 
 import org.junit.jupiter.api.Test;
+import org.practice.chapter1.task2.Isbn10Validator;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class Isbn10ValidatorTest {

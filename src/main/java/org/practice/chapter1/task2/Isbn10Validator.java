@@ -1,4 +1,4 @@
-package org.practice.task2;
+package org.practice.chapter1.task2;
 
 public class Isbn10Validator {
     public boolean isValidISBN (String isbn) {

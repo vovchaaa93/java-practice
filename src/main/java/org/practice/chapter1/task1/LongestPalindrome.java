@@ -1,4 +1,4 @@
-package org.practice.task1;
+package org.practice.chapter1.task1;
 
 public class LongestPalindrome {
 

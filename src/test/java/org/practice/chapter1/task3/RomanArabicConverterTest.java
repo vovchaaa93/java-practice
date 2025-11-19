@@ -1,7 +1,8 @@
-package org.practice.task3;
+package org.practice.chapter1.task3;
 
 
 import org.junit.jupiter.api.Test;
+import org.practice.chapter1.task3.RomanArabicConverter;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

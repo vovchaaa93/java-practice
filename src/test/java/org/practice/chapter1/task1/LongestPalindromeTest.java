@@ -1,7 +1,8 @@
-package org.practice.task1;
+package org.practice.chapter1.task1;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import org.practice.chapter1.task1.LongestPalindrome;
 
 import static org.junit.jupiter.api.Assertions.*;
 
