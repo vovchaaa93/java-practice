@@ -21,6 +21,7 @@
 - Чистота кода и правильные структуры данных.
 
 ## Примеры
+
 ```java
 TextAnalyzer analyzer = new TextAnalyzer("Привет мир. Привет все!");
 analyzer.getWordFrequency() → {"привет": 2, "мир": 1, "все": 1}
